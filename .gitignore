@@ -1,0 +1,6 @@
+# idea配置文件
+*.iml
+.idea
+
+# java编译文件
+*.class
